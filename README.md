@@ -24,10 +24,14 @@ Pronouns: she/her
 <br />
 
 <div align = "center">
-  <img align="center" src= "https://github-readme-stats.vercel.app/api?username=anjalisilva" />   <br />
+     <img align="center" src= "https://github.com/anjalisilva/anjalisilva/blob/main/github-metrics.svg" />   <br />
+     <img align="center" src= "https://github-readme-stats.vercel.app/api?username=anjalisilva" />   <br />
+     
 </div>
 
-![Metrics](https://github.com/anjalisilva/anjalisilva/blob/master/github-metrics.svg)
+
+
+
 
 <!--
 **anjalisilva/anjalisilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
