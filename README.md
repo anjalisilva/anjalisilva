@@ -12,13 +12,16 @@ Pronouns: she/her
   <img src="https://img.shields.io/badge/Research-Machine%20Learning-yellowgreen" /> <br />
   <img src="https://img.shields.io/badge/Research-Data%20Visualization-yellow" /> 
   <img src="https://img.shields.io/badge/Research-Trend%20Analysis-orange" /> 
- <img src="https://img.shields.io/badge/Focus-Assessment-brightgreen" /> <br />
-  <img src="https://img.shields.io/badge/Research-Bioinformatics-important" />
+  <img src="https://img.shields.io/badge/Research-Bioinformatics-important" /><br />
   <img src="https://img.shields.io/badge/Research-Multiomics%20Data-ff69b4" /> 
-  <img src="https://img.shields.io/badge/Research-RNAseq-blue" /> <br />
-  <img src="https://img.shields.io/badge/Research-Methylation-lightgrey" />  
+  <img src="https://img.shields.io/badge/Research-RNAseq-blue" /> 
+  <img src="https://img.shields.io/badge/Research-Methylation-lightgrey" /> <br /> 
   <img src="https://img.shields.io/badge/Research-DNAseq-blueviolet" />  
+    <img src="https://img.shields.io/badge/Research-Microarray-red" />  
   <img src="https://img.shields.io/badge/Research-Protein%20Structure%20Modeling-9cf" /> <br />
+    <img src="https://img.shields.io/badge/Focus-Statistics-brightgreen" />
+  <img src="https://img.shields.io/badge/Focus-Assessment-blueviolet" />
+  <img src="https://img.shields.io/badge/Focus-Teaching-blue" /> <br />
   <img src="https://img.shields.io/badge/City-Toronto-blueviolet" />
   <img src="https://img.shields.io/badge/Country-Canada-red" />
 </p>
