@@ -1,18 +1,31 @@
-### Welcome to Anjali Silva's GitHub 👋
 
-- 👩🏻‍💻 Hi! I’m a Researcher @ University of Toronto, Toronto, Canada  
-- 🔍 Research Summary: Clustering and classification via <br />
-     mixture models with applications to bioinformatics, <br />
-     analysis of multi-omics data, and expanding web-based <br />
-     bioinformatics tools for visualizing gene expression data.
-- 📫 Email: a.silva@utoronto.ca
-- 👩🏻 Pronouns: she/her
+<p align="center">
+<h2 align="center"> Welcome to Anjali Silva's GitHub <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+     
+<p align="center">
+👩🏻‍💻🔍 I’m a Researcher @ University of Toronto <br />
+Email: a.silva@utoronto.ca <br />
+Pronouns: she/her      
+<p align="center">     
+  <img src="https://img.shields.io/badge/Research-Clustering-brightgreen" />
+  <img src="https://img.shields.io/badge/Research-Classification-green" /> 
+  <img src="https://img.shields.io/badge/Research-Machine%20Learning-yellowgreen" />
+  <img src="https://img.shields.io/badge/Research-Data%20Visualization-yellow" /> 
+  <img src="https://img.shields.io/badge/Research-Trend%20Analysis-orange" /> <br />
+  <img src="https://img.shields.io/badge/Research-Bioinformatics-important" />
+  <img src="https://img.shields.io/badge/Research-Multiomics%20Data-ff69b4" /> 
+  <img src="https://img.shields.io/badge/Research-RNAseq-blue" /> 
+  <img src="https://img.shields.io/badge/Research-Methylation-lightgrey" />  
+  <img src="https://img.shields.io/badge/Research-DNAseq-blueviolet" />  
+  <img src="https://img.shields.io/badge/Research-Protein%20Structure%20Modeling-9cf" /> <br />
+  <img src="https://img.shields.io/badge/Lives-Canada-red" />
+</p>
+
 <br />
 
-![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=anjalisilva&show_icons=true)
-
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anjalisilva&theme=blue-green)
+<div align = "center">
+  <img align="center" src= "https://github-readme-stats.vercel.app/api?username=anjalisilva" />   <br />
+</div>
 
 
 <!--
@@ -28,4 +41,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=anjalisilva&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anjalisilva&theme=blue-green)
+
+  <img align="center" src= "https://github-profile-trophy.vercel.app/?username=anjalisilva" /> <br />
+  <img align="center" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=anjalisilva" /> <br />
+  <img align="center" src= "https://activity-graph.herokuapp.com/graph?username=anjalisilva&theme=xcode&hide_border=true&area=true&custom_title='Contributions'" />
+
+
 -->
