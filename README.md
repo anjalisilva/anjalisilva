@@ -9,13 +9,13 @@ Pronouns: she/her
 <p align="center">     
   <img src="https://img.shields.io/badge/Research-Clustering-brightgreen" />
   <img src="https://img.shields.io/badge/Research-Classification-green" /> 
-  <img src="https://img.shields.io/badge/Research-Machine%20Learning-yellowgreen" />
+  <img src="https://img.shields.io/badge/Research-Machine%20Learning-yellowgreen" /> <br />
   <img src="https://img.shields.io/badge/Research-Data%20Visualization-yellow" /> 
   <img src="https://img.shields.io/badge/Research-Trend%20Analysis-orange" /> 
  <img src="https://img.shields.io/badge/Focus-Assessment-brightgreen" /> <br />
   <img src="https://img.shields.io/badge/Research-Bioinformatics-important" />
   <img src="https://img.shields.io/badge/Research-Multiomics%20Data-ff69b4" /> 
-  <img src="https://img.shields.io/badge/Research-RNAseq-blue" /> 
+  <img src="https://img.shields.io/badge/Research-RNAseq-blue" /> <br />
   <img src="https://img.shields.io/badge/Research-Methylation-lightgrey" />  
   <img src="https://img.shields.io/badge/Research-DNAseq-blueviolet" />  
   <img src="https://img.shields.io/badge/Research-Protein%20Structure%20Modeling-9cf" /> <br />
