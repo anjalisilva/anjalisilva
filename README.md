@@ -4,7 +4,6 @@
      
 <p align="center">
 👩🏻‍💻🔍 I’m a Researcher @ University of Toronto <br />
-Email: a.silva@utoronto.ca <br />
 Pronouns: she/her      
 <p align="center">     
   <img src="https://img.shields.io/badge/Research-Clustering-brightgreen" />
