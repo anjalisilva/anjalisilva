@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            859 Commits
+                            863 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -327,9 +327,9 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="919.0563778758969" height="8" fill="#198CE7"/>
-                    <rect mask="url(#languages-bar)" x="919.0563778758969" y="0" width="0.8033065666155734" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="919.8596844425125" y="0" width="0.1403155574874364" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="919.054770452983" height="8" fill="#198CE7"/>
+                    <rect mask="url(#languages-bar)" x="919.054770452983" y="0" width="0.8046749675349477" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="919.8594454205179" y="0" width="0.14055457948208694" height="8" fill="#f34b7d"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1863,7 +1863,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 13 Apr 2022, 14:27:56 (timezone Canada/Eastern) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 13 Apr 2022, 15:19:32 (timezone Canada/Eastern) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
