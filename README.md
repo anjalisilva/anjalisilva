@@ -1,6 +1,6 @@
 
 <p align="center">
-<h2 align="center"> Welcome to Anjali Silva's GitHub <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h2 align="center"> Welcome to Anjali Silva's GitHub </h1>
      
 <p align="center">
 👩🏻‍💻🔍 I’m a Researcher @ University of Toronto <br />
