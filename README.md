@@ -3,7 +3,7 @@
 <h2 align="center"> Welcome to Anjali Silva's GitHub </h1>
      
 <p align="center">
-👩🏻‍💻🔍 I’m a Researcher @ University of Toronto <br />
+👩🏻‍💻🔍 Researcher @ University of Toronto <br />
 Pronouns: she/her      
 <p align="center">     
   <img src="https://img.shields.io/badge/Research-Clustering-brightgreen" />
