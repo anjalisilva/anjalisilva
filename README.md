@@ -29,6 +29,8 @@ Pronouns: she/her
 
 <div align = "center">
      <img align="center" src= "https://github.com/anjalisilva/anjalisilva/blob/main/github-metrics.svg" />   <br />
+     <img align="center" src= "https://github.com/anjalisilva/anjalisilva/blob/main/metrics.plugin.stargazers.worldmap.svg" />   <br />
+     <picture>
      <picture>
      <source 
        srcset="https://github-readme-stats.vercel.app/api?username=anjalisilva&show_icons=true&theme=dark"
